@@ -1,0 +1,7 @@
+project members:
+Name                         Id           Sec
+
+1.Chowdhury Israt Jahan      16-31396-1    D
+2.Rahman,Sheikh Sayed Bin    16-31236-1    D
+3.Rahman,Sayma               16-31580-1    D
+4.Akash,MD Asaduzzaman       15-28959-1    E1
